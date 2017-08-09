@@ -1,5 +1,3 @@
-##  https://imahesh.github.io/boggle/ 
-
 Boggle Project
 ==============
 A browser-based version of the game Boggle. 
